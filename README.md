@@ -1,5 +1,10 @@
 <img width="1855" height="720" alt="conexo_case_study copiar" src="https://github.com/user-attachments/assets/57fe3662-3414-4b3e-8fc2-7fe328527e63" />
 
+
+https://github.com/user-attachments/assets/48e0548c-5512-43ca-91e9-115fc4fd2ed4
+
+
+
 <h1 align="center">🎮 Conexo Temático</h1>
 
 Jogo baseado no [Conexo](https://conexo.ws/) desenvolvido como trabalho de **Desenvolvimento de Sistemas** (IFRS - BG). 
